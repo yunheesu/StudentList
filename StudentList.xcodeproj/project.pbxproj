@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		821CA2722416EE620074381F /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821CA2712416EE620074381F /* StudentDetailViewController.swift */; };
 		824CB04C2416E01D00918723 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824CB04B2416E01D00918723 /* AppDelegate.swift */; };
 		824CB04E2416E01D00918723 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824CB04D2416E01D00918723 /* SceneDelegate.swift */; };
 		824CB0502416E01D00918723 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824CB04F2416E01D00918723 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		821CA2712416EE620074381F /* StudentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 		824CB0482416E01D00918723 /* StudentList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		824CB04B2416E01D00918723 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		824CB04D2416E01D00918723 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				824CB04B2416E01D00918723 /* AppDelegate.swift */,
 				824CB04D2416E01D00918723 /* SceneDelegate.swift */,
 				824CB04F2416E01D00918723 /* ViewController.swift */,
+				821CA2712416EE620074381F /* StudentDetailViewController.swift */,
 				824CB0512416E01D00918723 /* Main.storyboard */,
 				824CB0542416E01E00918723 /* Assets.xcassets */,
 				824CB0562416E01E00918723 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				824CB0502416E01D00918723 /* ViewController.swift in Sources */,
 				824CB04C2416E01D00918723 /* AppDelegate.swift in Sources */,
 				824CB04E2416E01D00918723 /* SceneDelegate.swift in Sources */,
+				821CA2722416EE620074381F /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
